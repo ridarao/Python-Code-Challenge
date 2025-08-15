@@ -1,5 +1,7 @@
 # Write your code below this line 👇
 #PAUSE 1. use \n to add another line of "Hello World"
 print("Hello world!\nHello World!\nHello World!")
+print("Name \\ ida")
+print("Class \\Python")
 #PAUSE 2. Add a Space Between the string
 print("Hello"+ " " +"Angela")
